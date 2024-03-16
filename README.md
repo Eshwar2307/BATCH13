@@ -6,5 +6,15 @@ Before you begin, ensure you have the following installed on your system:
 Node.js - JavaScript runtime
 npm - Node.js package manager
 
-####step 1
-1. Navigate to the project directorycd <project_directory>
+steps that are followed
+
+1.Navigate to the project directorycd <project_directory>
+
+2. Install dependencies
+Run the following command to install project dependencies:
+npm install
+
+3. Start the development server
+Once the dependencies are installed, you can start the development server by running:
+npm start 
+This command will start the development server and open your default web browser to display the application.
